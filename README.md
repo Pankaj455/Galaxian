@@ -1,3 +1,3 @@
 # Galaxian
 
-## This is a simple space shooting game.
+### This is a simple space shooting game.
